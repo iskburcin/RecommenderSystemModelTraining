@@ -1,0 +1,181 @@
+Yaş,Cinsiyet,Meslek,Mutluyken,Üzgünken,Öfkeliyken
+21,Erkek,Öğrenci,Doğa Yürüyüşü,Yürüyüş (Doğa - Sahil - Park),Müzik Dinlemek
+21,Kadın,Öğrenci,Müzik Dinlemek,Birileriyle Konuşmak,Derin Nefes Egzersizi
+24,Erkek,Öğrenci,Dans Etmek,Birileriyle Konuşmak,Mola Vermek
+20,Erkek,Öğrenci,Müzik Dinlemek,Film - Dizi İzlemek,Müzik Dinlemek
+19,Erkek,Öğrenci,Spor Yapmak (Bisiklet - Koşu - Yüzme),Film - Dizi İzlemek,Müzik Dinlemek
+18,Erkek,Öğrenci,Doğa Yürüyüşü,Günlük Yazma,Mola Vermek
+22,Erkek,Yazılım Geliştiricisi,Spor Yapmak (Bisiklet - Koşu - Yüzme),Birileriyle Konuşmak,Mola Vermek
+20,Erkek,Öğrenci,Doğa Yürüyüşü,Yürüyüş (Doğa - Sahil - Park),Derin Nefes Egzersizi
+20,Kadın,Bilgisayar Mühendisi,Dans Etmek,Yürüyüş (Doğa - Sahil - Park),Derin Nefes Egzersizi
+20,Kadın,Öğrenci,Müzik Dinlemek,Günlük Yazma,Müzik Dinlemek
+21,Erkek,Öğrenci,Dans Etmek,Şiir Yazmak,Mola Vermek
+23,Kadın,Öğrenci,Oyun Oynamak,Şiir Yazmak,Duş Almak
+21,Erkek,Öğrenci,Oyun Oynamak,Yürüyüş (Doğa - Sahil - Park),Mola Vermek
+20,Erkek,Öğrenci,Doğa Yürüyüşü,Film - Dizi İzlemek,Mola Vermek
+23,Erkek,Yazılım Geliştiricisi,Müzik Dinlemek,Yürüyüş (Doğa - Sahil - Park),Motorsiklet Sürmek
+20,Erkek,Ofis de beyaz yaka çalışan,Müzik Dinlemek,Film - Dizi İzlemek,Duş Almak - Mola Vermek
+21,Kadın,Bilgisayar Mühendisi,Spor Yapmak (Bisiklet - Koşu - Yüzme),Yürüyüş (Doğa - Sahil - Park),Müzik Dinlemek
+20,Erkek,Öğrenci,Spor Yapmak (Bisiklet - Koşu - Yüzme),Birileriyle Konuşmak,Yürümek
+20,Kadın,Öğrenci,El İşi (Resim - heykel - dikiş nakış),Meditasyon - Yoga,Mola Vermek
+22,Erkek,Öğrenci,Müzik Dinlemek,Yürüyüş (Doğa - Sahil - Park),Müzik Dinlemek
+19,Kadın,Öğrenci,Doğa Yürüyüşü,Günlük Yazma,Müzik Dinlemek
+22,Erkek,Öğrenci,Müzik Dinlemek,Birileriyle Konuşmak,Mola Vermek
+22,Erkek,Yazılım Geliştiricisi,Müzik Dinlemek,Birileriyle Konuşmak,Mola Vermek
+20,Erkek,Öğrenci,Spor Yapmak (Bisiklet - Koşu - Yüzme),Günlük Yazma,Duş Almak
+22,Erkek,Öğrenci,Doğa Yürüyüşü,Dizi İzlemek,Mola Vermek
+20,Erkek,Öğrenci,Oyun Oynamak,Birileriyle Konuşmak,Mola Vermek
+21,Kadın,Öğrenci,El İşi (Resim - heykel - dikiş nakış),Birileriyle Konuşmak,Duş Almak
+22,Kadın,Öğrenci,Dans Etmek,Yürüyüş (Doğa - Sahil - Park),Duş Almak
+21,Erkek,Öğrenci,Müzik Dinlemek,Yürüyüş (Doğa - Sahil - Park),Derin Nefes Egzersizi
+21,Kadın,Bilgisayar Mühendisi,Müzik Dinlemek,Birileriyle Konuşmak,Mola Vermek
+23,Erkek,Öğrenci,Spor Yapmak (Bisiklet - Koşu - Yüzme),Günlük Yazma,Müzik Dinlemek
+21,Erkek,Öğrenci,Müzik Dinlemek,Yürüyüş (Doğa - Sahil - Park),Derin Nefes Egzersizi
+21,Erkek,Öğrenci,Dans Etmek,Yürüyüş (Doğa - Sahil - Park),Derin Nefes Egzersizi
+21,Erkek,Yazılım Geliştiricisi,El İşi (Resim - heykel - dikiş nakış),Film - Dizi İzlemek,Mola Vermek
+24,Kadın,Diş Hekimi,Spor Yapmak (Bisiklet - Koşu - Yüzme),Yürüyüş (Doğa - Sahil - Park),Duş Almak
+21,Kadın,Öğrenci,El İşi (Resim - heykel - dikiş nakış),Günlük Yazma,Müzik Dinlemek
+29,Erkek,Bilgisayar Mühendisi,Müzik Dinlemek,Birileriyle Konuşmak,Derin Nefes Egzersizi
+23,Erkek,Bilgisayar Mühendisi,Doğa Yürüyüşü,Film - Dizi İzlemek,Mola Vermek
+21,Kadın,Öğrenci,El İşi (Resim - heykel - dikiş nakış),Yürüyüş (Doğa - Sahil - Park),Duş Almak
+25,Erkek,Endüstri Mühendisi,El İşi (Resim - heykel - dikiş nakış),Film - Dizi İzlemek,Duş Almak
+21,Erkek,Öğrenci,Spor Yapmak (Bisiklet - Koşu - Yüzme),Film - Dizi İzlemek,Mola Vermek
+24,Erkek,Bilgisayar Mühendisi,Doğa Yürüyüşü,Yürüyüş (Doğa - Sahil - Park),Derin Nefes Egzersizi
+20,Erkek,Öğrenci,Spor Yapmak (Bisiklet - Koşu - Yüzme),Günlük Yazma,Mola Vermek
+20,Erkek,Öğrenci,Müzik Dinlemek,Yürüyüş (Doğa - Sahil - Park),Mola Vermek
+19,Kadın,Bilgisayar Mühendisi,Müzik Dinlemek,Birileriyle Konuşmak,Düşünmek
+21,Erkek,Tıp öğrencisi,Dans Etmek,Film - Dizi İzlemek,Mola Vermek
+20,Kadın,Öğrenci,El İşi (Resim - heykel - dikiş nakış),Film - Dizi İzlemek,Duş Almak
+21,Kadın,Öğrenci,Spor Yapmak (Bisiklet - Koşu - Yüzme),Birileriyle Konuşmak,Müzik Dinlemek
+22,Erkek,Mobil Uygulama Geliştiricisi,Dans Etmek,Film - Dizi İzlemek,Mola Vermek
+25,Erkek,Bilgisayar Mühendisi,Müzik Dinlemek,Yürüyüş (Doğa - Sahil - Park),Derin Nefes Egzersizi
+22,Erkek,Öğrenci,El İşi (Resim - heykel - dikiş nakış),Film - Dizi İzlemek,Duş Almak
+22,Erkek,Öğrenci,Müzik Dinlemek,Birileriyle Konuşmak,Müzik Dinlemek
+28,Erkek,Bilgisyar Mühendisi,Müzik Dinlemek,Yürüyüş (Doğa - Sahil - Park),Mola Vermek
+21,Kadın,Öğrenci,Doğa Yürüyüşü,Film - Dizi İzlemek,Duş Almak
+19,Kadın,Öğrenci,Spor Yapmak (Bisiklet - Koşu - Yüzme),Yürüyüş (Doğa - Sahil - Park),Müzik Dinlemek
+21,Kadın,Öğrenci,Doğa Yürüyüşü,Film - Dizi İzlemek,Mola Vermek
+22,Erkek,Öğrenci,Dans Etmek,Birileriyle Konuşmak,Derin Nefes Egzersizi
+22,Kadın,Öğrenci,Meditasyon,Meditasyon - Yoga,Derin Nefes Egzersizi
+21,Erkek,Bilgisayar Mühendisi,El İşi (Resim - heykel - dikiş nakış),Yürüyüş (Doğa - Sahil - Park),Müzik Dinlemek
+40,Erkek,Akademisyen,Dans Etmek,Yürüyüş (Doğa - Sahil - Park),Müzik Dinlemek
+19,Kadın,Öğrenci,Müzik Dinlemek,Film - Dizi İzlemek,Müzik Dinlemek
+23,Kadın,Öğrenci,Dans Etmek,Film - Dizi İzlemek,Mola Vermek
+20,Erkek,Maranagoz,Spor Yapmak (Bisiklet - Koşu - Yüzme),Birileriyle Konuşmak,Duş Almak
+21,Erkek,Öğrenci,Müzik Dinlemek,Uyumak,Mola Vermek
+21,Erkek,Öğrenci,Spor Yapmak (Bisiklet - Koşu - Yüzme),Yürüyüş (Doğa - Sahil - Park),Derin Nefes Egzersizi
+24,Erkek,Mühendis,Spor Yapmak (Bisiklet - Koşu - Yüzme),Birileriyle Konuşmak,Mola Vermek
+19,Erkek,Yazılım Geliştiricisi,Müzik Dinlemek,Uyumak,Duş Almak
+24,Kadın,Öğrenci,Dans Etmek,Yürüyüş (Doğa - Sahil - Park),Derin Nefes Egzersizi
+23,Kadın,Bilgisayar Mühendisi,Dans Etmek,Kod Yazmak,Mola Vermek
+20,Kadın,Öğrenci,Müzik Dinlemek,Yürüyüş (Doğa - Sahil - Park),Derin Nefes Egzersizi
+22,Erkek,Barmen,Müzik Dinlemek,Birileriyle Konuşmak,Mola Vermek
+22,Erkek,Bilgisayar Mühendisi,El İşi (Resim - heykel - dikiş nakış),Yürüyüş (Doğa - Sahil - Park),Derin Nefes Egzersizi
+22,Kadın,Asistan,Dans Etmek,Günlük Yazma,Duş Almak - Mola Vermek
+21,Kadın,Öğrenci,Doğa Yürüyüşü,Günlük Yazma,Duş Almak - Mola Vermek
+22,Erkek,Bilgisayar Mühendisi,Spor Yapmak (Bisiklet - Koşu - Yüzme),Günlük Yazma,Spor Yapmak
+26,Erkek,Bilgisayar Mühendisi,Spor Yapmak (Bisiklet - Koşu - Yüzme),Birileriyle Konuşmak,Müzik Dinlemek
+20,Kadın,Öğrenci,Dans Etmek,Yürüyüş (Doğa - Sahil - Park),Duş Almak
+23,Kadın,Öğrenci,El İşi (Resim - heykel - dikiş nakış),Film - Dizi İzlemek,Mola Vermek
+23,Kadın,Öğrenci,El İşi (Resim - heykel - dikiş nakış),Film - Dizi İzlemek,Mola Vermek
+20,Kadın,Öğrenci,Dans Etmek,Günlük Yazma,Müzik Dinlemek
+18,Kadın,Öğrenci,Müzik Dinlemek,Film - Dizi İzlemek,Müzik Dinlemek
+20,Kadın,Öğrenci,Dans Etmek,Birileriyle Konuşmak,Derin Nefes Egzersizi
+21,Kadın,Öğrenci,Müzik Dinlemek,Yürüyüş (Doğa - Sahil - Park),Duş Almak
+22,Erkek,Öğrenci,Spor Yapmak (Bisiklet - Koşu - Yüzme),Satranç & Müzik dinlemek,Beyaz Futbol editleri
+22,Erkek,Öğrenci,Doğa Yürüyüşü,Yürüyüş (Doğa - Sahil - Park),Derin Nefes Egzersizi
+17,Kadın,Öğrenci,Müzik Dinlemek,Film - Dizi İzlemek,Uyumak
+22,Erkek,Grafiker,Müzik Dinlemek,Uyumak,Müzik Dinlemek
+19,Kadın,Öğrenci,Müzik Dinlemek,Uyumak,Müzik Dinlemek
+19,Kadın,Öğrenci,Müzik Dinlemek,Yürüyüş (Doğa - Sahil - Park),Duş Almak
+19,Kadın,Öğrenci,Müzik Dinlemek,Yürüyüş (Doğa - Sahil - Park),Müzik Dinlemek
+20,Kadın,Öğrenci,El İşi (Resim - heykel - dikiş nakış),Film - Dizi İzlemek,Müzik Dinlemek
+21,Erkek,Müzisyen,Müzik Dinlemek,Film - Dizi İzlemek,Derin Nefes Egzersizi
+20,Kadın,Öğrenci,Müzik Dinlemek,Yürüyüş (Doğa - Sahil - Park),Uyumak
+20,Erkek,Öğrenci,Spor Yapmak (Bisiklet - Koşu - Yüzme),Günlük Yazma,Derin Nefes Egzersizi
+21,Erkek,Öğrenci,Müzik Dinlemek,Uyumak,Müzik Dinlemek
+26,Erkek,Bilgisayar Mühendisi,Spor Yapmak (Bisiklet - Koşu - Yüzme),Birileriyle Konuşmak,Mola Vermek
+20,Erkek,Öğrenci,Doğa Yürüyüşü,Yürüyüş (Doğa - Sahil - Park),Duş Almak
+20,Kadın,Öğrenci,Kitap Okumak,Günlük Yazma,Derin Nefes Egzersizi
+45,Kadın,Doktor,Doğa Yürüyüşü,Uyumak,Derin Nefes Egzersizi
+19,Kadın,Öğrenci,Müzik Dinlemek,Yemek yapmak/yemek,Duş Almak
+19,Kadın,Öğrenci,Müzik Dinlemek,Müzik dinlemek,Müzik Dinlemek
+34,Kadın,Doktor,Doğa Yürüyüşü,Yemek yapmak/yemek,Müzik Dinlemek
+42,Kadın,Ev Hanımı,El İşi (Resim - heykel - dikiş nakış),Yemek yapmak/yemek,Duş Almak
+21,Kadın,Öğrenci,Dans Etmek,Yürüyüş (Doğa - Sahil - Park),Mola Vermek
+22,Kadın,Öğrenci,El İşi (Resim - heykel - dikiş nakış),Günlük Yazma,Mola Vermek
+22,Kadın,Öğrenci,Müzik Dinlemek,Yemek yapmak/yemek,Mola Vermek
+20,Kadın,Öğrenci,Spor Yapmak (Bisiklet - Koşu - Yüzme),Yemek yapmak/yemek,Duş Almak
+21,Kadın,Öğrenci,Spor Yapmak (Bisiklet - Koşu - Yüzme),Yemek yapmak/yemek,Müzik Dinlemek
+20,Kadın,Öğrenci,Dans Etmek,Birileriyle Konuşmak,Müzik Dinlemek
+22,Erkek,Öğrenci,Kitap Okumak,Yürüyüş (Doğa - Sahil - Park),Mola Vermek
+21,Kadın,Öğrenci,Müzik Dinlemek,Yemek yapmak/yemek,Derin Nefes Egzersizi
+20,Kadın,Öğrenci,Spor Yapmak (Bisiklet - Koşu - Yüzme),Günlük Yazma,Müzik Dinlemek
+19,Erkek,Öğrenci,Müzik Dinlemek,Yemek yapmak/yemek,Müzik Dinlemek
+23,Kadın,Öğrenci,Spor Yapmak (Bisiklet - Koşu - Yüzme),Film - Dizi İzlemek,Müzik Dinlemek
+22,Kadın,Öğrenci,Spor Yapmak (Bisiklet - Koşu - Yüzme),Günlük Yazma,Müzik Dinlemek
+20,Erkek,Öğrenci,Dans Etmek,Yürüyüş (Doğa - Sahil - Park),Derin Nefes Egzersizi
+21,Kadın,Mezun,Doğa Yürüyüşü,Birileriyle Konuşmak,Derin Nefes Egzersizi
+22,Erkek,Öğrenci,Müzik Dinlemek,Yemek yapmak/yemek,Derin Nefes Egzersizi
+26,Kadın,Ev hanımı,Müzik Dinlemek,Birileriyle Konuşmak,Uyumak
+20,Kadın,Öğrenci,Dans Etmek,Film - Dizi İzlemek,Uyumak
+22,Erkek,Öğrenci,Doğa Yürüyüşü,Günlük Yazma,Müzik Dinlemek
+21,Erkek,Öğrenci,Müzik Dinlemek,Yemek yapmak/yemek,Müzik Dinlemek
+32,Erkek,Akademisyen,Müzik Dinlemek,Birileriyle Konuşmak,Mola Vermek
+21,Kadın,Öğrenci,El İşi (Resim - heykel - dikiş nakış),Meditasyon - Yoga,Derin Nefes Egzersizi
+16,Kadın,Öğrenci,Müzik Dinlemek,Yemek yapmak/yemek,Duş Almak
+20,Kadın,Öğrenci,Müzik Dinlemek,Film - Dizi İzlemek,Duş Almak
+27,Erkek,Öğrenci,Spor Yapmak (Bisiklet - Koşu - Yüzme),Film - Dizi İzlemek,Derin Nefes Egzersizi
+25,Erkek,Öğrenci,Spor Yapmak (Bisiklet - Koşu - Yüzme),Film - Dizi İzlemek,Müzik Dinlemek
+23,Kadın,Öğrenci,Spor Yapmak (Bisiklet - Koşu - Yüzme),Birileriyle Konuşmak,Müzik Dinlemek
+21,Erkek,Öğrenci,Doğa Yürüyüşü,Müzik dinlemek,Müzik Dinlemek
+23,Kadın,Öğrenci,Spor Yapmak (Bisiklet - Koşu - Yüzme),Yemek yapmak/yemek,Duş Almak
+20,Erkek,Öğrenci,Müzik Dinlemek,Yemek yapmak/yemek,Mola Vermek
+23,Kadın,Öğrenci,Doğa Yürüyüşü,Günlük Yazma,Derin Nefes Egzersizi
+22,Kadın,Öğrenci,Dans Etmek,Yürüyüş (Doğa - Sahil - Park),Mola Vermek
+25,Kadın,Çalışan,Müzik Dinlemek,Film - Dizi İzlemek,Derin Nefes Egzersizi
+40,Erkek,Bilişim Uzmanı,Doğa Yürüyüşü,Yürüyüş (Doğa - Sahil - Park),Müzik Dinlemek
+21,Erkek,Öğrenci,Müzik Dinlemek,Birileriyle Konuşmak,Müzik Dinlemek
+20,Erkek,Öğrenci,Spor Yapmak (Bisiklet - Koşu - Yüzme),Meditasyon - Yoga,Mola Vermek
+21,Kadın,Öğrenci,Doğa Yürüyüşü,Yürüyüş (Doğa - Sahil - Park),Duş Almak
+33,Kadın,Akademisyen,Spor Yapmak (Bisiklet - Koşu - Yüzme),Yürüyüş (Doğa - Sahil - Park),Derin Nefes Egzersizi
+23,Erkek,Öğrenci,Dans Etmek,Birileriyle Konuşmak,Mola Vermek
+20,Kadın,Öğrenci,Müzik Dinlemek,Birileriyle Konuşmak,Mola Vermek
+22,Kadın,Bilgisayar Mühendisi,Spor Yapmak (Bisiklet - Koşu - Yüzme),Günlük Yazma,Duş Almak
+19,Kadın,Öğrenci,Müzik Dinlemek,Film - Dizi İzlemek,Mola Vermek
+21,Kadın,Öğrenci,Dans Etmek,Film - Dizi İzlemek,Müzik Dinlemek
+20,Kadın,Öğrenci,Müzik Dinlemek,Yürüyüş (Doğa - Sahil - Park),Mola Vermek
+26,Kadın,Mezun,Dans Etmek,Meditasyon - Yoga,Mola Vermek
+62,Erkek,Emekli,Doğa Yürüyüşü,Birileriyle Konuşmak,Duş Almak
+20,Kadın,Öğrenci,Müzik Dinlemek,Yemek yapmak/yemek,Mola Vermek
+22,Erkek,Öğrenci,Müzik Dinlemek,Yemek yapmak/yemek,Müzik Dinlemek
+19,Erkek,Öğrenci,Doğa Yürüyüşü,Yemek yapmak/yemek,Müzik Dinlemek
+25,Kadın,Öğrenci,Müzik Dinlemek,Yürüyüş (Doğa - Sahil - Park),Mola Vermek
+23,Kadın,Öğrenci,Dans Etmek,Film - Dizi İzlemek,Müzik Dinlemek
+21,Kadın,Öğrenci,Spor Yapmak (Bisiklet - Koşu - Yüzme),Yürüyüş (Doğa - Sahil - Park),Mola Vermek
+21,Erkek,Mühendis,Doğa Yürüyüşü,Birileriyle Konuşmak,Duş Almak
+53,Kadın,Doktor,Spor Yapmak (Bisiklet - Koşu - Yüzme),Meditasyon - Yoga,Derin Nefes Egzersizi
+36,Erkek,Akademisyen,Spor Yapmak (Bisiklet - Koşu - Yüzme),Meditasyon - Yoga,Uyumak
+22,Kadın,Öğrenci,Müzik Dinlemek,Yemek yapmak/yemek,Müzik Dinlemek
+20,Kadın,Öğrenci,Müzik Dinlemek,Yürüyüş (Doğa - Sahil - Park),Müzik Dinlemek
+24,Kadın,Öğrenci,Müzik Dinlemek,Yemek yapmak/yemek,Derin Nefes Egzersizi
+20,Erkek,Öğrenci,Spor Yapmak (Bisiklet - Koşu - Yüzme),Film - Dizi İzlemek,Mola Vermek
+26,Erkek,Mühendis,Müzik Dinlemek,Film - Dizi İzlemek,Mola Vermek
+23,Kadın,Öğrenci,Müzik Dinlemek,Birileriyle Konuşmak,Duş Almak
+45,Kadın,Temizlik,Müzik Dinlemek,Uyumak,Derin Nefes Egzersizi
+22,Erkek,Öğrenci,Uyumak,Bir şeyler içmek,Duş Almak
+22,Erkek,Öğrenci,Müzik Dinlemek,Yürüyüş (Doğa - Sahil - Park),Mola Vermek
+20,Erkek,Öğrenci,Spor Yapmak (Bisiklet - Koşu - Yüzme),Uyumak,Duş Almak
+57,Kadın,Kat Hizm Personeli,Dans Etmek,Müzik Dinlemek,Mola Vermek
+23,Kadın,Bilgisayar Mühendisi,Dans Etmek,Yürüyüş (Doğa - Sahil - Park),Müzik Dinlemek
+21,Kadın,Öğrenci,Müzik Dinlemek,Birileriyle Konuşmak,Derin Nefes Egzersizi
+19,Erkek,Öğrenci,Spor Yapmak (Bisiklet - Koşu - Yüzme),Meditasyon - Yoga,Duş Almak
+23,Erkek,Öğrenci,Doğa Yürüyüşü,Film - Dizi İzlemek,Mola Vermek
+23,Erkek,Öğrenci,Doğa Yürüyüşü,Film - Dizi İzlemek,Mola Vermek
+23,Erkek,Öğrenci,Doğa Yürüyüşü,Film - Dizi İzlemek,Mola Vermek
+23,Erkek,Öğrenci,Doğa Yürüyüşü,Yürüyüş (Doğa - Sahil - Park),Mola Vermek
+23,Erkek,Öğrenci,Doğa Yürüyüşü,Film - Dizi İzlemek,Müzik Dinlemek
+25,Kadın,Doktor,Müzik Dinlemek,Yemek yapmak/yemek,Müzik Dinlemek
+21,Kadın,Endüstri Mühendisi,Müzik Dinlemek,Film - Dizi İzlemek,Duş Almak
+22,Kadın,Öğrenci,Dans Etmek,Birileriyle Konuşmak,Derin Nefes Egzersizi
+22,Kadın,Öğrenci,Dans Etmek,Birileriyle Konuşmak,Derin Nefes Egzersizi
