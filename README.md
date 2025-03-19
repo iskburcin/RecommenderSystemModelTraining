@@ -20,7 +20,7 @@ The dataset includes these columns:
 - **Activity When Happy**: What a person likes to do when they are happy.
 - **Activity When Sad**: What a person likes to do when they are sad.
 - **Activity When Angry**: What a person likes to do when they are angry.
-  ![alt text](<Ekran görüntüsü 2025-03-14 233835.png>)
+  ![image](https://github.com/user-attachments/assets/1534c743-e2b2-4d9f-8646-2ff941a81eae)
 
 ### Data Preprocessing Steps
 
@@ -66,7 +66,7 @@ accuracy = accuracy_score(y_test, predictions)
 print(f'Model Accuracy: {accuracy * 100:.2f}%')
 ```
 
-![alt text](accuracy_ss.png)
+![image](https://github.com/user-attachments/assets/6b263023-8665-4f7d-b23e-046d7973ce06)
 
 ## Saving the Model
 
